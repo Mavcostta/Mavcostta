@@ -2,8 +2,8 @@
 
 ### Desenvolvedora em formação | Estudante de ADS 🚀
 
-Sou apaixonada por tecnologia e estou sempre em busca de novos desafios. Atualmente estudando HTML, CSS, JavaScript, Java e C#.  
-Participo de bootcamps e cursos para aprimorar minhas habilidades e construir projetos incríveis!
+Sou apaixonada por tecnologia e estou sempre em busca de novos desafios. Atualmente estudando HTML, CSS e JavaScript.  
+Participo de bootcamps e cursos para aprimorar minhas habilidades e construir novos projetos!
 
 ---
 
