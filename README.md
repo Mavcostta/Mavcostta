@@ -57,15 +57,15 @@ Também desenvolvo aplicações web e mobile, conectando minha experiência com 
 
 ## Projeto principal
 
-### Gastos Compartilhados
+### Soma
 
-Aplicativo mobile para controle de gastos compartilhados em casal ou família, com **autenticação, grupos compartilhados e sincronização em tempo real**.
+Aplicação de organização financeira para uso **individual ou compartilhado**, com autenticação, grupos e sincronização de dados em tempo real.
 
 `React Native` `Expo` `TypeScript` `Firebase Authentication` `Firestore`
 
-**Destaques:** contas fixas e variáveis, resumo mensal, dados compartilhados entre usuários e atualização em tempo real.
+**Destaques:** receitas, contas fixas e variáveis, lançamentos privados, resumo mensal, categorias, histórico, comparação entre períodos e distribuição dos gastos entre integrantes.
 
-[Ver repositório](https://github.com/Mavcostta/Gastos)
+[Ver repositório](https://github.com/Mavcostta/soma-finance)
 
 ---
 
