@@ -72,6 +72,7 @@ Meu portfólio profissional, reunindo experiência, formação, projetos e servi
 
 [Ver repositório](https://github.com/Mavcostta/portifolio) • [Ver online](https://mavcostta.vercel.app/)
 
+---
 
 ## O que estou construindo agora
 
@@ -80,15 +81,6 @@ Meu objetivo é aprofundar minha atuação em **Engenharia de Dados**, principal
 `Data Engineering` • `ETL / ELT` • `Data Modeling` • `SQL` • `Python` • `Databricks` • `AWS`
 
 Ao mesmo tempo, continuo desenvolvendo projetos web que resolvem problemas reais e fortalecem minha visão de produto e experiência do usuário.
-
----
-
-## GitHub
-
-<div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=Mavcostta&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mavcostta&layout=compact&hide_border=true&langs_count=6" alt="Linguagens mais utilizadas" />
-</div>
 
 ---
 
