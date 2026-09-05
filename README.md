@@ -72,15 +72,6 @@ Meu portfólio profissional, reunindo experiência, formação, projetos e servi
 
 [Ver repositório](https://github.com/Mavcostta/portifolio) • [Ver online](https://mavcostta.vercel.app/)
 
-### Sorteio
-
-Aplicação web criada para organizar e acompanhar um sorteio semanal, com interface responsiva e persistência de informações no navegador.
-
-`HTML` `CSS` `JavaScript` `PWA` `localStorage`
-
-[Ver repositório](https://github.com/Mavcostta/sorteio)
-
----
 
 ## O que estou construindo agora
 
