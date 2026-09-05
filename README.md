@@ -2,9 +2,9 @@
 
 # Vitória Costa
 
-### Data Engineering • SQL • Python • Databricks • AWS
+### Data Engineering × Software Development
 
-Estagiária de Engenharia de Dados e estudante de **Análise e Desenvolvimento de Sistemas**, interessada em transformar dados e ideias em soluções úteis.
+Construindo soluções entre **dados, cloud e desenvolvimento de produtos digitais**.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white)](https://mavcostta.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mavcostta/)
@@ -17,16 +17,15 @@ Estagiária de Engenharia de Dados e estudante de **Análise e Desenvolvimento d
 
 Atualmente atuo como **Estagiária de Engenharia de Dados**, apoiando atividades de análise, tratamento, consulta e organização de dados em ambiente corporativo.
 
-No dia a dia, venho desenvolvendo experiência com **SQL, Python, Databricks e AWS**, além de contato com pipelines, modelagem de dados, monitoramento de processos e visualização de informações.
+Minha experiência envolve **SQL, Python, Databricks e AWS**, além de pipelines, modelagem de dados, monitoramento de processos e visualização de informações.
 
-Também desenvolvo projetos web e mobile para transformar necessidades reais em produtos digitais.
+Também desenvolvo aplicações web e mobile, conectando minha experiência com dados à construção de produtos digitais.
 
-- 🎓 Análise e Desenvolvimento de Sistemas
-- 📊 Foco profissional em Engenharia de Dados
-- ☁️ AWS: Athena, Glue e S3
-- 🧱 Databricks, SQL e Python
-- 🌐 Desenvolvimento web e mobile
-- 📍 São Paulo, Brasil
+**Formação:** Análise e Desenvolvimento de Sistemas  
+**Foco:** Engenharia de Dados  
+**Cloud & Dados:** AWS (Athena, Glue e S3), Databricks, SQL e Python  
+**Desenvolvimento:** Web e Mobile  
+**Localização:** São Paulo, Brasil
 
 ---
 
@@ -90,20 +89,20 @@ Meu portfólio profissional, reunindo experiência, formação, projetos e servi
 
 ---
 
-## O que estou construindo agora
+## Em desenvolvimento
 
-Meu objetivo é aprofundar minha atuação em **Engenharia de Dados**, principalmente em:
+Estou aprofundando minha atuação em **Engenharia de Dados**, com foco em:
 
 `Data Engineering` • `ETL / ELT` • `Data Modeling` • `SQL` • `Python` • `Databricks` • `AWS`
 
-Ao mesmo tempo, continuo desenvolvendo produtos web e mobile que resolvem problemas reais e ampliam minha experiência com arquitetura, dados e experiência do usuário.
+Em paralelo, continuo construindo produtos web e mobile para ampliar minha experiência com arquitetura, dados e desenvolvimento de software.
 
 ---
 
 <div align="center">
 
-### Vamos nos conectar?
+### Contato
 
-[LinkedIn](https://www.linkedin.com/in/mavcostta/) • [Portfólio](https://mavcostta.vercel.app/) • [GitHub](https://github.com/Mavcostta)
+[LinkedIn](https://www.linkedin.com/in/mavcostta/) • [Portfólio](https://mavcostta.vercel.app/)
 
 </div>
