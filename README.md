@@ -19,13 +19,13 @@ Atualmente atuo como **Estagiária de Engenharia de Dados**, apoiando atividades
 
 No dia a dia, venho desenvolvendo experiência com **SQL, Python, Databricks e AWS**, além de contato com pipelines, modelagem de dados, monitoramento de processos e visualização de informações.
 
-Também desenvolvo projetos web para transformar necessidades reais em produtos digitais — de portfólios e landing pages a sites institucionais publicados em produção.
+Também desenvolvo projetos web e mobile para transformar necessidades reais em produtos digitais.
 
 - 🎓 Análise e Desenvolvimento de Sistemas
 - 📊 Foco profissional em Engenharia de Dados
 - ☁️ AWS: Athena, Glue e S3
 - 🧱 Databricks, SQL e Python
-- 🌐 HTML, CSS e JavaScript
+- 🌐 Desenvolvimento web e mobile
 - 📍 São Paulo, Brasil
 
 ---
@@ -49,12 +49,28 @@ Também desenvolvo projetos web para transformar necessidades reais em produtos 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-## Projetos em destaque
+## Projeto principal
+
+### Gastos Compartilhados
+
+Aplicativo mobile para controle de gastos compartilhados em casal ou família, com **autenticação, grupos compartilhados e sincronização em tempo real**.
+
+`React Native` `Expo` `TypeScript` `Firebase Authentication` `Firestore`
+
+**Destaques:** contas fixas e variáveis, resumo mensal, dados compartilhados entre usuários e atualização em tempo real.
+
+[Ver repositório](https://github.com/Mavcostta/Gastos)
+
+---
+
+## Outros projetos em destaque
 
 ### Studio Anna Costa
 
@@ -80,7 +96,7 @@ Meu objetivo é aprofundar minha atuação em **Engenharia de Dados**, principal
 
 `Data Engineering` • `ETL / ELT` • `Data Modeling` • `SQL` • `Python` • `Databricks` • `AWS`
 
-Ao mesmo tempo, continuo desenvolvendo projetos web que resolvem problemas reais e fortalecem minha visão de produto e experiência do usuário.
+Ao mesmo tempo, continuo desenvolvendo produtos web e mobile que resolvem problemas reais e ampliam minha experiência com arquitetura, dados e experiência do usuário.
 
 ---
 
